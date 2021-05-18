@@ -39,8 +39,6 @@ print ('Passage Embeddings:')
 print (passage_embedding[:3])
 
 query = "what are ibuprofen risks in pediatrics?"
-# query = "what are the main cloud risks?"
-# query = "what are the industry trends?"
 
 score_dict = scorePassages(query)
 
