@@ -1,2 +1,1 @@
-# simple_query_based_document_summarization
-Simple Query Based Document Summarization
+# Simple Query Based Document Summarization
